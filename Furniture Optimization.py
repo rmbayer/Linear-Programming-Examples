@@ -2,7 +2,7 @@
 # coding: utf-8
 
 from IPython.display import Image
-Image(filename = r"\\mps6006\fdyshr\athena\Knowledge Sharing\Data Science\Linear_Programming_Examples\Veerman Example.PNG", width=875)
+Image(filename = r"Veerman Example.PNG", width=875)
 
 
 import pandas as pd
